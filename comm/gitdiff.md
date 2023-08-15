@@ -2,7 +2,7 @@
 
 [Назад](/comm/gitconfig.md)
 
-## git diff
+# `git diff`
 
 
 

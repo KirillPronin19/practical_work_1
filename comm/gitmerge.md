@@ -2,7 +2,7 @@
 
 [Назад](/comm/gitreset.md)
 
-## git merge
+# `git merge`
 
 ![](/assets/merge1.png)
 

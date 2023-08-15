@@ -2,7 +2,7 @@
 
 [Назад](/comm/gitdiff.md)
 
-## git reset
+# `git reset` 
 
 
 

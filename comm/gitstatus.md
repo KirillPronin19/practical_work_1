@@ -2,7 +2,7 @@
 
 [Назад](/readme.md)
 
-## git status
+# `git status`
 
 ![](/assets/status.png)
 

@@ -2,7 +2,7 @@
 
 [Назад](/comm/gitrm.md)
 
-## git mv
+# `git mv`
 
 
 

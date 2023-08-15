@@ -2,7 +2,7 @@
 
 [Назад](/comm/gitstatus.md)
 
-## git init
+# `git init`
 
 ![](/assets/init)
 

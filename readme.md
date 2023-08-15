@@ -1,4 +1,4 @@
-# Инструкция по работе с GIT
+# `Инструкция по работе с GIT`
 
 
 LICENCE: [MIT](licence.md)
@@ -7,7 +7,7 @@ LICENCE: [MIT](licence.md)
 
 ---
 
-## Основные команды Git:
+## `Основные команды Git:`
 
 
 1. [git status](/comm/gitstatus.md)
@@ -26,3 +26,4 @@ LICENCE: [MIT](licence.md)
 
 GIT logo by Jason Long. http://git-scm.com/downloads/logos, 
 licence: [CC BY 3.0](https://creativecommons.org/)
+

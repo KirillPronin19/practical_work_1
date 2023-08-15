@@ -2,7 +2,7 @@
 
 [Назад](/comm/add.md)
 
-## git commit
+# `git commit`
 
 <!-- ![](/assets/status.png) -->
 

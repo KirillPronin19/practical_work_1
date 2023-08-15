@@ -2,7 +2,7 @@
 
 [Назад](/comm/gitcommit.md)
 
-## git config
+# `git config`
 
 ![](/assets/status.png)
 

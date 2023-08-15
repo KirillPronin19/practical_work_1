@@ -2,7 +2,7 @@
 
 [Назад](/comm/gitmerge.md)
 
-## git rm
+# `git rm`
 
 ![](/assets/rm.png)
 
