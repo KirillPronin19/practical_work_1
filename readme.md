@@ -7,9 +7,19 @@ LICENCE: [MIT](licence.md)
 
 ---
 
-### Содержание:
-1.
-2. [git add](/add.md)
+## Основные команды Git:
+
+
+1. [git status](/comm/gitstatus.md)
+2. [git init](/comm/init.md)
+3. [git add](/comm/add.md)
+4. [git commit](/comm/gitcommit.md)
+5. [git config](/comm/gitconfig.md)
+6. [git diff](/comm/gitdiff.md)
+7. [git reset](/comm/gitreset.md)
+8. [git merge](/comm/gitmerge.md)
+9. [git rm](/comm/gitrm.md)
+10. [git mv](/comm/gitmv.md)
 
 
 ---
